@@ -1,17 +1,17 @@
 {
   "author": "",
   "name": "mocha-gherkin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
-    "url": ""
+    "url": "https://github.com/webforge-labs/mocha-gherkin"
   },
   "engines": {
-    "node": "~0.6.1"
+    "node": ">=0.6.1"
   },
   "dependencies": {
     "gherkin": "~2.9.3",
     "nopt": "~1.0.10",
-    "hogan": "~1.0.5-dev"
+    "hogan.js": "~2.0.0"
   },
   "devDependencies": {
     "mocha": "~1.0.1",
